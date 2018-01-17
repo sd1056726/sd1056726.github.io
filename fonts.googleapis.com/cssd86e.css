@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightItalic'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/fpTVHK8qsXbIeTHTrnQH6I48KljrVa8Zcyi9xGGohEU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Sans Pro Italic'), local('SourceSansPro-Italic'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/M2Jd71oPJhLKp0zdtTvoM6xot8ENfkYez2Lz7rcrw70.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/toadOcfmlt9b38dHJxOBGEBls_1aQwi4AfipSOlE3SU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/ODelI1aHBYDBqgeIAH2zlFzCdIATDt8zXO3QNtzVeJ8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/toadOcfmlt9b38dHJxOBGGvd-IutAbwf5FQ8ZpuI2w4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yrsa';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Yrsa Light'), local('Yrsa-Light'), url(https://fonts.gstatic.com/s/yrsa/v3/KC5SuoEQkbGjycWyFRzMHQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yrsa';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Yrsa Regular'), local('Yrsa-Regular'), url(https://fonts.gstatic.com/s/yrsa/v3/HTtwbX1xa_KtaCuA2sk0Kg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yrsa';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Yrsa Bold'), local('Yrsa-Bold'), url(https://fonts.gstatic.com/s/yrsa/v3/J39vKo2TSPOs875PfrSyxQ.ttf) format('truetype');
+}
